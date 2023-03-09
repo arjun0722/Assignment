@@ -1,0 +1,21 @@
+.header_img {
+  height: 20px;
+  width: 138px;
+  margin-left: 3rem;
+}
+.header_border {
+  height: 30px;
+  background-color: rgb(241, 233, 233);
+}
+.header_btn {
+  border: none;
+  background-color: white;
+}
+i.bi-person-circle {
+  font-size: 20px;
+  color: black;
+}
+.header_main {
+  background: white;
+  border: 2px solid rgb(189, 186, 186);
+}

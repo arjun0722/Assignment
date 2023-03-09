@@ -1,0 +1,15 @@
+.report_btn {
+  border: none;
+  height: 2rem;
+  background-color: rgb(197, 88, 240);
+  border-radius: 4px;
+  color: white;
+}
+.report_text {
+  width: 95%;
+  margin: auto;
+  height: 40vh;
+  border: 1px solid rgb(231, 230, 230);
+  margin-top: 1rem;
+  background-color: whitesmoke;
+}
